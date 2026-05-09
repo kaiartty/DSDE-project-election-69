@@ -226,7 +226,7 @@ with st.form("edit_form"):
     st.markdown("---")
     st.markdown("##### 🗳️ คะแนนแต่ละพรรค/ผู้สมัคร (เรียงตามเบอร์)")
     
-    vote_cols = st.columns(4)
+    vote_cols = st.columns(5)
     vote_inputs = {}
     
     for i, kid in enumerate(sorted(votes.keys(), key=lambda x: int(x))):
@@ -241,7 +241,7 @@ with st.form("edit_form"):
                 
         label = f"เบอร์ {kid}: {disp_name}"
         
-        with vote_cols[i % 4]:
+        with vote_cols[i % 5]:
             mode_key = "raw" if is_raw_mode else "proc"
             key_vote =f"v_{mode_key}_{selected_amphoe}_{selected_filename}_{tambon}_{unit}_{kid}"
             vote_inputs[kid] = st.number_input(label, value=val, min_value=0, step=1, key=key_vote, disabled=is_raw_mode)

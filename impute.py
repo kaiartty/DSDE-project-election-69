@@ -169,7 +169,8 @@ if len(votes) == 0 and not is_raw_mode:
             d["votes"] = {str(i): 0 for i in range(1, 58)}
             with open(TARGET_PROCESS_PATH, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            st.rerun() 
+            st.cache_data.clear()
+            st.rerun()
     else:
         neighbors = [u for u in data.get(tambon, {}).keys() if u != unit and data[tambon][u].get("candidate_info")]
         
@@ -180,12 +181,14 @@ if len(votes) == 0 and not is_raw_mode:
                 d["votes"] = {k: 0 for k in d["candidate_info"].keys()}
                 with open(TARGET_PROCESS_PATH, "w", encoding="utf-8") as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
+                st.cache_data.clear()
                 st.rerun()
         else:
             if st.button("🆕 สร้างช่องว่างเบอร์ 1-15"):
                 d["votes"] = {str(i): 0 for i in range(1, 16)}
                 with open(TARGET_PROCESS_PATH, "w", encoding="utf-8") as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
+                st.cache_data.clear()
                 st.rerun()
 
 votes = d.get("votes") or {}

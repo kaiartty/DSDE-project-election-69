@@ -242,7 +242,9 @@ with st.form("edit_form"):
         label = f"เบอร์ {kid}: {disp_name}"
         
         with vote_cols[i % 4]:
-            vote_inputs[kid] = st.number_input(label, value=val, min_value=0, step=1, key=f"v_{selected_amphoe}_{selected_filename}_{tambon}_{unit}_{kid}", disabled=is_raw_mode)
+            mode_key = "raw" if is_raw_mode else "proc"
+            key_vote =f"v_{mode_key}_{selected_amphoe}_{selected_filename}_{tambon}_{unit}_{kid}"
+            vote_inputs[kid] = st.number_input(label, value=val, min_value=0, step=1, key=key_vote, disabled=is_raw_mode)
             
     submit_btn = st.form_submit_button("💾 บันทึกและตรวจสอบข้อมูล", type="primary", disabled=is_raw_mode)
 

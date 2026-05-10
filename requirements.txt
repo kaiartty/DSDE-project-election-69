@@ -1,0 +1,15 @@
+# ── Core ──────────────────────────────────────
+streamlit>=1.35,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+
+# ── Visualization ─────────────────────────────
+plotly>=5.20
+folium>=0.17
+streamlit-folium>=0.20
+
+# ── ML / Modeling (Section 4) ─────────────────
+scikit-learn>=1.4
+xgboost>=2.0
+shap>=0.45
+statsmodels>=0.14

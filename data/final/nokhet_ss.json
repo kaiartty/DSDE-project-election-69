@@ -1,0 +1,57 @@
+{
+  "นอกเขต": {
+    "ชุด 1": {
+      "trusted_total": null,
+      "candidates_found": 8,
+      "final_sum": null,
+      "status": "⚠️ no trusted total",
+      "votes": {},
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ร้อยตรีหญิงอรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": null,
+        "turnout": null,
+        "ballots_alloc": null,
+        "ballots_used": null,
+        "ballots_valid": null,
+        "ballots_spoiled": null,
+        "ballots_no_vote": 8,
+        "ballots_remain": null,
+        "sub_check": "skip",
+        "alloc_check": "skip"
+      }
+    }
+  }
+}

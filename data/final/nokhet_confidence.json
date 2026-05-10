@@ -1,0 +1,23 @@
+{
+  "นอกเขต": {
+    "ชุด 1": {
+      "trusted_total": null,
+      "parties_found": 57,
+      "final_sum": null,
+      "status": "⚠️ no trusted total",
+      "votes": {},
+      "ballot_summary": {
+        "eligible": null,
+        "turnout": null,
+        "ballots_alloc": null,
+        "ballots_used": null,
+        "ballots_valid": null,
+        "ballots_spoiled": null,
+        "ballots_no_vote": 8,
+        "ballots_remain": null,
+        "sub_check": "skip",
+        "alloc_check": "skip"
+      }
+    }
+  }
+}

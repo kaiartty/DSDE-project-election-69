@@ -1,0 +1,1795 @@
+{
+  "-": {
+    "combined_1": {
+      "trusted_total": 375,
+      "anchor_status": "✅ 375",
+      "candidates_found": 8,
+      "final_sum": 375,
+      "status": "✅ single cid=4→15",
+      "votes": {
+        "1": 216,
+        "2": 99,
+        "3": 5,
+        "4": 15,
+        "5": 6,
+        "6": 5,
+        "7": 2,
+        "8": 27
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 8,
+        "turnout": null,
+        "ballots_alloc": 600,
+        "ballots_used": 434,
+        "ballots_valid": 375,
+        "ballots_spoiled": 42,
+        "ballots_no_vote": 7,
+        "ballots_remain": 161,
+        "sub_check": "⚠️ 424!=used(434)",
+        "alloc_check": "⚠️ 434+161!=alloc(600)"
+      }
+    },
+    "combined_2": {
+      "trusted_total": 292,
+      "anchor_status": "✅ 292",
+      "candidates_found": 8,
+      "final_sum": 292,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 116,
+        "2": 86,
+        "3": 0,
+        "4": 42,
+        "5": 8,
+        "6": 2,
+        "7": 0,
+        "8": 38
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 9,
+        "turnout": null,
+        "ballots_alloc": 480,
+        "ballots_used": 333,
+        "ballots_valid": 292,
+        "ballots_spoiled": 26,
+        "ballots_no_vote": 5,
+        "ballots_remain": 147,
+        "sub_check": "⚠️ 323!=used(333)",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_3": {
+      "trusted_total": 306,
+      "anchor_status": "✅ 306",
+      "candidates_found": 8,
+      "final_sum": 306,
+      "status": "✅ single cid=1→116",
+      "votes": {
+        "1": 116,
+        "2": 94,
+        "3": 1,
+        "4": 37,
+        "5": 6,
+        "6": 6,
+        "7": 1,
+        "8": 45
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 3,
+        "turnout": null,
+        "ballots_alloc": 460,
+        "ballots_used": 339,
+        "ballots_valid": 306,
+        "ballots_spoiled": 99,
+        "ballots_no_vote": 4,
+        "ballots_remain": 121,
+        "sub_check": "⚠️ 409!=used(339)",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_4": {
+      "trusted_total": null,
+      "anchor_status": "⚠️ bd=(203,5) tot=(222,202)",
+      "candidates_found": 8,
+      "final_sum": null,
+      "status": "⚠️ no trusted total",
+      "votes": {},
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 0,
+        "turnout": null,
+        "ballots_alloc": 300,
+        "ballots_used": 222,
+        "ballots_valid": 203,
+        "ballots_spoiled": 14,
+        "ballots_no_vote": 5,
+        "ballots_remain": 78,
+        "sub_check": "✅ ok",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_5": {
+      "trusted_total": 252,
+      "anchor_status": "✅ 252",
+      "candidates_found": 8,
+      "final_sum": 252,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 60,
+        "2": 90,
+        "3": 0,
+        "4": 8,
+        "5": 3,
+        "6": 5,
+        "7": 2,
+        "8": 84
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "วาที ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 3,
+        "turnout": null,
+        "ballots_alloc": 460,
+        "ballots_used": 313,
+        "ballots_valid": 252,
+        "ballots_spoiled": 49,
+        "ballots_no_vote": 2,
+        "ballots_remain": 17,
+        "sub_check": "⚠️ 303!=used(313)",
+        "alloc_check": "⚠️ 313+17!=alloc(460)"
+      }
+    },
+    "combined_6": {
+      "trusted_total": 279,
+      "anchor_status": "✅ 279",
+      "candidates_found": 8,
+      "final_sum": 279,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 45,
+        "2": 109,
+        "3": 1,
+        "4": 10,
+        "5": 5,
+        "6": 3,
+        "7": 0,
+        "8": 106
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปูกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 9,
+        "turnout": null,
+        "ballots_alloc": 460,
+        "ballots_used": 314,
+        "ballots_valid": 279,
+        "ballots_spoiled": 25,
+        "ballots_no_vote": 0,
+        "ballots_remain": 146,
+        "sub_check": "⚠️ 304!=used(314)",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_7": {
+      "trusted_total": 344,
+      "anchor_status": "✅ 344",
+      "candidates_found": 8,
+      "final_sum": 344,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 184,
+        "2": 95,
+        "3": 3,
+        "4": 8,
+        "5": 5,
+        "6": 3,
+        "7": 0,
+        "8": 46
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณฑิต วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 2,
+        "turnout": null,
+        "ballots_alloc": 520,
+        "ballots_used": 372,
+        "ballots_valid": 348,
+        "ballots_spoiled": 26,
+        "ballots_no_vote": 2,
+        "ballots_remain": 168,
+        "sub_check": "⚠️ 376!=used(372)",
+        "alloc_check": "⚠️ 372+168!=alloc(520)"
+      }
+    },
+    "combined_8": {
+      "trusted_total": 188,
+      "anchor_status": "✅ 188",
+      "candidates_found": 8,
+      "final_sum": 208,
+      "status": "⚠️ sum=208 tt=188 diff=-20",
+      "votes": {
+        "1": 126,
+        "2": 57,
+        "3": 0,
+        "4": 3,
+        "5": 3,
+        "6": 2,
+        "7": 0,
+        "8": 17
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 6,
+        "turnout": null,
+        "ballots_alloc": 430,
+        "ballots_used": 214,
+        "ballots_valid": 183,
+        "ballots_spoiled": 24,
+        "ballots_no_vote": 2,
+        "ballots_remain": 266,
+        "sub_check": "⚠️ 209!=used(214)",
+        "alloc_check": "⚠️ 214+266!=alloc(430)"
+      }
+    },
+    "combined_9": {
+      "trusted_total": 372,
+      "anchor_status": "✅ 372",
+      "candidates_found": 8,
+      "final_sum": 182,
+      "status": "⚠️ sum=182 tt=372 diff=190",
+      "votes": {
+        "1": 64,
+        "2": 62,
+        "3": 2,
+        "4": 15,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 34
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจะศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 8,
+        "turnout": null,
+        "ballots_alloc": 467,
+        "ballots_used": null,
+        "ballots_valid": 372,
+        "ballots_spoiled": 22,
+        "ballots_no_vote": 5,
+        "ballots_remain": 117,
+        "sub_check": "⚠️ 399!=used(None)",
+        "alloc_check": "skip"
+      }
+    },
+    "combined_10": {
+      "trusted_total": 228,
+      "anchor_status": "✅ 228",
+      "candidates_found": 8,
+      "final_sum": 228,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 88,
+        "2": 51,
+        "3": 3,
+        "4": 17,
+        "5": 6,
+        "6": 8,
+        "7": 4,
+        "8": 51
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 8,
+        "turnout": null,
+        "ballots_alloc": 320,
+        "ballots_used": 254,
+        "ballots_valid": 228,
+        "ballots_spoiled": 19,
+        "ballots_no_vote": 7,
+        "ballots_remain": 66,
+        "sub_check": "✅ ok",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_11": {
+      "trusted_total": 145,
+      "anchor_status": "✅ 145",
+      "candidates_found": 8,
+      "final_sum": 115,
+      "status": "⚠️ sum=115 tt=145 diff=30",
+      "votes": {
+        "1": 50,
+        "2": 30,
+        "3": 3,
+        "4": 7,
+        "5": 1,
+        "6": 0,
+        "7": 2,
+        "8": 22
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 4,
+        "turnout": null,
+        "ballots_alloc": 220,
+        "ballots_used": 140,
+        "ballots_valid": 115,
+        "ballots_spoiled": 22,
+        "ballots_no_vote": 3,
+        "ballots_remain": 80,
+        "sub_check": "✅ ok",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_12": {
+      "trusted_total": 256,
+      "anchor_status": "✅ 256",
+      "candidates_found": 8,
+      "final_sum": 256,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 119,
+        "2": 63,
+        "3": 0,
+        "4": 17,
+        "5": 3,
+        "6": 2,
+        "7": 0,
+        "8": 52
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 9,
+        "turnout": null,
+        "ballots_alloc": 30,
+        "ballots_used": 25,
+        "ballots_valid": 15,
+        "ballots_spoiled": 16,
+        "ballots_no_vote": 9,
+        "ballots_remain": null,
+        "sub_check": "⚠️ 40!=used(25)",
+        "alloc_check": "skip"
+      }
+    },
+    "combined_13": {
+      "trusted_total": 230,
+      "anchor_status": "✅ 230",
+      "candidates_found": 8,
+      "final_sum": 223,
+      "status": "⚠️ sum=223 tt=230 diff=7",
+      "votes": {
+        "1": 167,
+        "2": 40,
+        "3": 1,
+        "4": 4,
+        "5": 2,
+        "6": 2,
+        "7": 0,
+        "8": 7
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 0,
+        "turnout": null,
+        "ballots_alloc": 380,
+        "ballots_used": 246,
+        "ballots_valid": 223,
+        "ballots_spoiled": 22,
+        "ballots_no_vote": 1,
+        "ballots_remain": 134,
+        "sub_check": "✅ ok",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_14": {
+      "trusted_total": 198,
+      "anchor_status": "✅ 198",
+      "candidates_found": 8,
+      "final_sum": 198,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 149,
+        "2": 45,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 3
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปูกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 9,
+        "turnout": null,
+        "ballots_alloc": 300,
+        "ballots_used": 210,
+        "ballots_valid": 198,
+        "ballots_spoiled": 12,
+        "ballots_no_vote": null,
+        "ballots_remain": 90,
+        "sub_check": "skip",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_15": {
+      "trusted_total": null,
+      "anchor_status": "⚠️ bd=(266,55) tot=(966,166)",
+      "candidates_found": 8,
+      "final_sum": null,
+      "status": "⚠️ no trusted total",
+      "votes": {},
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปูกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 0,
+        "turnout": null,
+        "ballots_alloc": 640,
+        "ballots_used": 360,
+        "ballots_valid": 266,
+        "ballots_spoiled": 17,
+        "ballots_no_vote": 0,
+        "ballots_remain": 357,
+        "sub_check": "⚠️ 283!=used(360)",
+        "alloc_check": "⚠️ 360+357!=alloc(640)"
+      }
+    },
+    "combined_16": {
+      "trusted_total": 32,
+      "anchor_status": "✅ 32",
+      "candidates_found": 8,
+      "final_sum": 652,
+      "status": "⚠️ sum=652 tt=32 diff=-620",
+      "votes": {
+        "1": 54,
+        "2": 125,
+        "3": 1,
+        "4": 13,
+        "5": 416,
+        "6": 4,
+        "7": 4,
+        "8": 35
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 9,
+        "turnout": null,
+        "ballots_alloc": 299,
+        "ballots_used": 252,
+        "ballots_valid": 32,
+        "ballots_spoiled": 15,
+        "ballots_no_vote": 1,
+        "ballots_remain": null,
+        "sub_check": "⚠️ 48!=used(252)",
+        "alloc_check": "skip"
+      }
+    },
+    "combined_17": {
+      "trusted_total": 226,
+      "anchor_status": "✅ 226",
+      "candidates_found": 8,
+      "final_sum": 226,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 65,
+        "2": 114,
+        "3": 1,
+        "4": 13,
+        "5": 4,
+        "6": 2,
+        "7": 4,
+        "8": 23
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กลาธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นิ่มใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 2,
+        "turnout": null,
+        "ballots_alloc": 640,
+        "ballots_used": null,
+        "ballots_valid": 246,
+        "ballots_spoiled": 229,
+        "ballots_no_vote": 8,
+        "ballots_remain": 394,
+        "sub_check": "⚠️ 483!=used(None)",
+        "alloc_check": "skip"
+      }
+    },
+    "combined_18": {
+      "trusted_total": 195,
+      "anchor_status": "✅ 195",
+      "candidates_found": 8,
+      "final_sum": 195,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 53,
+        "2": 96,
+        "3": 0,
+        "4": 13,
+        "5": 6,
+        "6": 4,
+        "7": 1,
+        "8": 22
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 5,
+        "turnout": null,
+        "ballots_alloc": 660,
+        "ballots_used": 219,
+        "ballots_valid": 195,
+        "ballots_spoiled": 16,
+        "ballots_no_vote": 8,
+        "ballots_remain": 441,
+        "sub_check": "✅ ok",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_19": {
+      "trusted_total": 301,
+      "anchor_status": "✅ 301",
+      "candidates_found": 8,
+      "final_sum": 301,
+      "status": "✅ pair (7→8,3→5)",
+      "votes": {
+        "1": 50,
+        "2": 165,
+        "3": 5,
+        "4": 6,
+        "5": 14,
+        "6": 6,
+        "7": 8,
+        "8": 47
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชันใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 0,
+        "turnout": null,
+        "ballots_alloc": 50,
+        "ballots_used": 50,
+        "ballots_valid": 50,
+        "ballots_spoiled": 50,
+        "ballots_no_vote": 0,
+        "ballots_remain": 50,
+        "sub_check": "⚠️ 100!=used(50)",
+        "alloc_check": "⚠️ 50+50!=alloc(50)"
+      }
+    },
+    "combined_20": {
+      "trusted_total": 274,
+      "anchor_status": "✅ 274",
+      "candidates_found": 8,
+      "final_sum": 341,
+      "status": "⚠️ sum=341 tt=274 diff=-67",
+      "votes": {
+        "1": 70,
+        "2": 137,
+        "3": 0,
+        "4": 13,
+        "5": 13,
+        "6": 74,
+        "7": 4,
+        "8": 30
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชันใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณฑรงค์กิติ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 7,
+        "turnout": null,
+        "ballots_alloc": 460,
+        "ballots_used": 300,
+        "ballots_valid": 274,
+        "ballots_spoiled": 14,
+        "ballots_no_vote": 2,
+        "ballots_remain": 160,
+        "sub_check": "⚠️ 290!=used(300)",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_21": {
+      "trusted_total": 240,
+      "anchor_status": "✅ 240",
+      "candidates_found": 8,
+      "final_sum": 240,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 116,
+        "2": 76,
+        "3": 0,
+        "4": 10,
+        "5": 7,
+        "6": 3,
+        "7": 2,
+        "8": 26
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปูกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณฑรงค์กิตติ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 5,
+        "turnout": null,
+        "ballots_alloc": 400,
+        "ballots_used": 267,
+        "ballots_valid": 240,
+        "ballots_spoiled": 15,
+        "ballots_no_vote": 2,
+        "ballots_remain": 135,
+        "sub_check": "⚠️ 257!=used(267)",
+        "alloc_check": "⚠️ 267+135!=alloc(400)"
+      }
+    },
+    "combined_22": {
+      "trusted_total": null,
+      "anchor_status": "⚠️ bd=(20,220) tot=(205,255)",
+      "candidates_found": 8,
+      "final_sum": null,
+      "status": "⚠️ no trusted total",
+      "votes": {},
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณฑรงค์กิ๋ว วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 2,
+        "turnout": null,
+        "ballots_alloc": 20,
+        "ballots_used": 20,
+        "ballots_valid": 20,
+        "ballots_spoiled": 20,
+        "ballots_no_vote": 0,
+        "ballots_remain": 20,
+        "sub_check": "⚠️ 40!=used(20)",
+        "alloc_check": "⚠️ 20+20!=alloc(20)"
+      }
+    },
+    "combined_23": {
+      "trusted_total": 299,
+      "anchor_status": "✅ 299",
+      "candidates_found": 8,
+      "final_sum": 570,
+      "status": "⚠️ sum=570 tt=299 diff=-271",
+      "votes": {
+        "1": 183,
+        "2": 73,
+        "3": 0,
+        "4": 8,
+        "5": 0,
+        "6": 2,
+        "7": 5,
+        "8": 299
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชันใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจะศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 9,
+        "turnout": null,
+        "ballots_alloc": 620,
+        "ballots_used": 362,
+        "ballots_valid": 299,
+        "ballots_spoiled": 57,
+        "ballots_no_vote": 6,
+        "ballots_remain": 258,
+        "sub_check": "✅ ok",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_24": {
+      "trusted_total": 203,
+      "anchor_status": "✅ 203",
+      "candidates_found": 8,
+      "final_sum": 213,
+      "status": "⚠️ sum=213 tt=203 diff=-10",
+      "votes": {
+        "1": 93,
+        "2": 59,
+        "3": 2,
+        "4": 6,
+        "5": 3,
+        "6": 1,
+        "7": 2,
+        "8": 47
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณฑรงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 1,
+        "turnout": null,
+        "ballots_alloc": 380,
+        "ballots_used": 227,
+        "ballots_valid": 203,
+        "ballots_spoiled": 24,
+        "ballots_no_vote": 0,
+        "ballots_remain": 153,
+        "sub_check": "✅ ok",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_25": {
+      "trusted_total": 157,
+      "anchor_status": "✅ 157",
+      "candidates_found": 8,
+      "final_sum": 157,
+      "status": "✅ triple (1,3,6)",
+      "votes": {
+        "1": 60,
+        "2": 58,
+        "3": 0,
+        "4": 2,
+        "5": 1,
+        "6": 0,
+        "7": 6,
+        "8": 30
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 4,
+        "turnout": null,
+        "ballots_alloc": 200,
+        "ballots_used": 170,
+        "ballots_valid": 157,
+        "ballots_spoiled": 16,
+        "ballots_no_vote": 5,
+        "ballots_remain": 36,
+        "sub_check": "⚠️ 178!=used(170)",
+        "alloc_check": "⚠️ 170+36!=alloc(200)"
+      }
+    },
+    "combined_26": {
+      "trusted_total": 127,
+      "anchor_status": "✅ 127",
+      "candidates_found": 8,
+      "final_sum": 127,
+      "status": "✅ single cid=8→3",
+      "votes": {
+        "1": 51,
+        "2": 61,
+        "3": 5,
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 3
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจะศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 4,
+        "turnout": null,
+        "ballots_alloc": 150,
+        "ballots_used": 134,
+        "ballots_valid": 197,
+        "ballots_spoiled": 1,
+        "ballots_no_vote": 6,
+        "ballots_remain": 46,
+        "sub_check": "⚠️ 204!=used(134)",
+        "alloc_check": "⚠️ 134+46!=alloc(150)"
+      }
+    },
+    "combined_27": {
+      "trusted_total": null,
+      "anchor_status": "⚠️ bd=(321,None) tot=(821,341)",
+      "candidates_found": 8,
+      "final_sum": null,
+      "status": "⚠️ no trusted total",
+      "votes": {},
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "-รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณฑิตศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 0,
+        "turnout": null,
+        "ballots_alloc": 480,
+        "ballots_used": 365,
+        "ballots_valid": 321,
+        "ballots_spoiled": 25,
+        "ballots_no_vote": 9,
+        "ballots_remain": 115,
+        "sub_check": "⚠️ 355!=used(365)",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_28": {
+      "trusted_total": 192,
+      "anchor_status": "✅ 192",
+      "candidates_found": 8,
+      "final_sum": 192,
+      "status": "✅ single cid=2→76",
+      "votes": {
+        "1": 82,
+        "2": 76,
+        "3": 3,
+        "4": 8,
+        "5": 2,
+        "6": 2,
+        "7": 0,
+        "8": 19
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชช์นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 0,
+        "turnout": null,
+        "ballots_alloc": 320,
+        "ballots_used": 219,
+        "ballots_valid": 198,
+        "ballots_spoiled": 21,
+        "ballots_no_vote": 6,
+        "ballots_remain": 101,
+        "sub_check": "⚠️ 225!=used(219)",
+        "alloc_check": "✅ ok"
+      }
+    },
+    "combined_29": {
+      "trusted_total": 383,
+      "anchor_status": "✅ 383",
+      "candidates_found": 8,
+      "final_sum": 383,
+      "status": "✅ exact match",
+      "votes": {
+        "1": 185,
+        "2": 138,
+        "3": 1,
+        "4": 11,
+        "5": 6,
+        "6": 7,
+        "7": 1,
+        "8": 34
+      },
+      "candidate_info": {
+        "1": {
+          "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+          "party": "กล้าธรรม"
+        },
+        "2": {
+          "name": "ว่าที่ ร.ต.หญิง อรพรรณ จันตาเรือง",
+          "party": "ประชาชน"
+        },
+        "3": {
+          "name": "นายเอก ปุกมณี",
+          "party": "วิชชั่นใหม่"
+        },
+        "4": {
+          "name": "นายอุทิศ สายดวงแก้ว",
+          "party": "ประชาธิปัตย์"
+        },
+        "5": {
+          "name": "นายวรโชติ จี้เรือน",
+          "party": "ภูมิใจไทย"
+        },
+        "6": {
+          "name": "นายธรรมนูญ วุฒิลักษณ์",
+          "party": "เศรษฐกิจ"
+        },
+        "7": {
+          "name": "นายอรุณ ธนะหมี",
+          "party": "รวมไทยสร้างชาติ"
+        },
+        "8": {
+          "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+          "party": "เพื่อไทย"
+        }
+      },
+      "ballot_summary": {
+        "eligible": 5,
+        "turnout": null,
+        "ballots_alloc": 580,
+        "ballots_used": 410,
+        "ballots_valid": 383,
+        "ballots_spoiled": 21,
+        "ballots_no_vote": 1,
+        "ballots_remain": 165,
+        "sub_check": "⚠️ 405!=used(410)",
+        "alloc_check": "⚠️ 410+165!=alloc(580)"
+      }
+    }
+  }
+}

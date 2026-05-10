@@ -493,7 +493,7 @@ if page == "ภาพรวม":
 
     c1, c2, c3, c4, c5 = st.columns(5)
     c1.metric("คะแนนรวม (ส.ส. เขต)", f"{total_votes_ss:,}")
-    c2.metric("คะแนนรวม (Party List)", f"{total_votes_pl:,}")
+    c2.metric("คะแนนรวม (ปาร์ตี้ลิสต์)", f"{total_votes_pl:,}")
     c3.metric("จำนวนตำบล", f"{total_tambons:,}")
     c4.metric("บัตรเสีย (ปาร์ตี้ลิสต์)", f"{int(spoiled_pl or 0):,}")
     c5.metric("บัตรเสีย (ส.ส. เขต)", f"{int(spoiled_ss or 0):,}")

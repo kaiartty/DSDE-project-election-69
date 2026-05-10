@@ -25,7 +25,7 @@ st.markdown("""
 # Sidebar
 st.sidebar.title("⚙️ Settings")
 
-amphoes = [d for d in os.listdir(DATA_DIR) if os.path.isdir(os.path.join(DATA_DIR, d))]
+amphoes = [d for d in os.listdir(DATA_DIR) if os.path.isdir(os.path.join(DATA_DIR, d)) and d != "final"]
 
 if not amphoes:
     st.error("❌ ไม่พบโฟลเดอร์อำเภอในโฟลเดอร์ `data/`")
